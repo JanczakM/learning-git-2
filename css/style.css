@@ -3,3 +3,11 @@ body {
   padding: 0;
   background-color: white;
 }
+
+.container {
+  max-width: 800px;
+  background-color: #1b4f8f;
+  color: white;
+  padding: 20px;
+  margin: 50px auto;
+}
