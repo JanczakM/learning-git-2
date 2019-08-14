@@ -2,6 +2,15 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+p {
+  font-size: 17px;
 }
 
 .container {
@@ -10,4 +19,8 @@ body {
   color: white;
   padding: 20px;
   margin: 50px auto;
+}
+
+.refrain {
+  font-weight: bold;
 }
