@@ -1,0 +1,2 @@
+autoprefixer-cli -o css/style.prefixed.css css/style.css
+/usr/lib/node_modules/nu-html-checker/bin/cli *.html
