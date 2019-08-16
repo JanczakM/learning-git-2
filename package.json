@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JanczakM/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "nu-html-checker": "^0.1.0"
   }
 }
